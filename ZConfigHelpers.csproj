@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Authors>anhphongbkdn</Authors>
+    <Product>ADZConfig</Product>
+    <Description>https://www.facebook.com/anhphongbkdn</Description>
+    <Copyright>ADZ@2021</Copyright>
+  </PropertyGroup>
+
+</Project>
